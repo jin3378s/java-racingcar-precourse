@@ -1,10 +1,9 @@
-package racinggame.interfaces;
+package racingcar.interfaces;
 
-import nextstep.utils.Console;
-import racinggame.SystemMessages;
-import racinggame.domain.CarList;
-import racinggame.domain.RacingCount;
-
+import camp.nextstep.edu.missionutils.Console;
+import racingcar.domain.CarList;
+import racingcar.domain.RacingCount;
+import racingcar.SystemMessages;
 import java.security.InvalidParameterException;
 
 public class RacingGame {
@@ -51,7 +50,7 @@ public class RacingGame {
         carList.filterChampions();
 
 
-        System.out.println("최종 우승자는 " + carList + " 입니다.");
+        System.out.println("최종 우승자 : " + carList);
 
     }
 

@@ -1,4 +1,4 @@
-package racinggame;
+package racingcar;
 
 public class Utils {
     public static String getDistanceDash(int count) {

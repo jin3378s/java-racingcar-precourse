@@ -1,4 +1,4 @@
-package racinggame.domain;
+package racingcar.domain;
 
 import java.security.InvalidParameterException;
 

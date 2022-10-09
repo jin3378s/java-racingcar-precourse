@@ -1,6 +1,5 @@
-package racinggame.domain;
-
-import racinggame.Utils;
+package racingcar.domain;
+import racingcar.Utils;
 
 import java.util.ArrayList;
 import java.util.List;

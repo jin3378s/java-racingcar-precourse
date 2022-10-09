@@ -1,4 +1,4 @@
-package racinggame.domain;
+package racingcar.domain;
 
 public class Distance {
     private int value = 0;

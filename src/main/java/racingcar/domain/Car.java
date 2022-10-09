@@ -1,7 +1,6 @@
-package racinggame.domain;
+package racingcar.domain;
 
-import nextstep.utils.Randoms;
-
+import camp.nextstep.edu.missionutils.Randoms;
 import java.security.InvalidParameterException;
 
 public class Car {
